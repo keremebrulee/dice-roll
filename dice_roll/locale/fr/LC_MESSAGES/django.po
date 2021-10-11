@@ -1,0 +1,172 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-09-28 08:57+0300\n"
+"PO-Revision-Date: 2020-09-27 17:36+0300\n"
+"Last-Translator: Kerem Kilic <kerem.kilic@sabanciuniv.edu>\n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 2.4.1\n"
+
+#: dice_roll/models.py:30
+msgid "What number would you like to report?"
+msgstr "Quel numéro souhaitez-vous signaler ?"
+
+#: dice_roll/models.py:32
+msgid "Q1: If you report 5, how much are you paid?"
+msgstr "Q1 : Si vous déclarez 5, combien êtes-vous payé ?"
+
+#: dice_roll/models.py:35 dice_roll/models.py:43 dice_roll/models.py:51
+msgid "You entered"
+msgstr "Vous êtes saisi"
+
+#: dice_roll/models.py:37 dice_roll/models.py:45 dice_roll/models.py:53
+msgid ""
+"Incorrect estimate. Please read the instruction carefully and revise your "
+"estimate."
+msgstr ""
+"Estimation incorrecte. Veuillez lire attentivement les instructions et "
+"réviser votre estimation."
+
+#: dice_roll/models.py:40
+msgid ""
+"Q2: If the outcome of the die roll is 3 and you report 2, how much are you "
+"paid?"
+msgstr ""
+"Q2 : Si le résultat du jet de dé est 3 et que vous déclarez 2, combien êtes-"
+"vous payé ?"
+
+#: dice_roll/models.py:48
+msgid ""
+"Q3: If the outcome of the die roll is 2 and you report 5, how much are you "
+"paid?"
+msgstr ""
+"Q3: Si le résultat du jet de dé est 2 et que vous déclarez 5, combien êtes-"
+"vous payé ?"
+
+#: dice_roll/templates/dice_roll/Dice.html:6
+msgid "Dice Rolling"
+msgstr "Le jeu des dés"
+
+#: dice_roll/templates/dice_roll/Dice.html:60
+msgid "<p> Click the button below to roll your dice. </p>"
+msgstr "<p> Cliquez sur le bouton ci-dessous pour lancer vos dés </p>"
+
+#: dice_roll/templates/dice_roll/End.html:12
+msgid ""
+"<p> You have completed all of the games. We thank you for your "
+"participation. </p> <p> The next step is to enjoy your free course offered "
+"by HEC Paris as part of its online masters program in innovation and "
+"entrepreneurship. The course is part of a program with 20 courses with a "
+"tuition fee of €20,000, meaning that the course you can now take is worth "
+"about €1,000. </p> <p> You will receive an invitation from Coursera in the "
+"next 1-2 days. Remember that the course lasts 4 weeks and requires you to "
+"complete weekly assignments and a final exam on time to be eligible to "
+"obtain an official certificate, compensation for your time and the bonus. </"
+"p> <p> If you have any trouble signing up for the courses or want to ask us "
+"any questions regarding the study, feel free to reach out to Kerem Kilic at "
+"<a href = \"mailto: kerem.kilic@hec.edu\">kerem.kilic@hec.edu</a>. </p> <p> "
+"We look forward to getting in touch with you after you have completed your "
+"online course. </p>"
+msgstr ""
+"<p> Vous avez terminé tous les jeux. Nous vous remercions de votre "
+"participation </p> <p> La prochaine étape est de profiter de votre cours "
+"gratuit offert par HEC Paris dans le cadre de son master en ligne en "
+"innovation et entrepreneuriat. Ce cours fait partie d'un programme de 20 "
+"cours dont les frais de scolarité s'élèvent à 20 000 euros, ce qui signifie "
+"que le cours que vous pouvez suivre actuellement vaut environ 1 000 euros </"
+"p> <p> Vous recevrez une invitation de la part de Coursera dans les "
+"prochains 1-2 jours. N'oubliez pas que le cours dure 4 semaines et que vous "
+"devez effectuer des devoirs hebdomadaires et passer un examen final dans les "
+"délais impartis pour pouvoir obtenir un certificat officiel, une "
+"compensation pour votre temps et la prime </p> <p> Si vous avez des "
+"difficultés pour vous inscrire aux cours ou si vous souhaitez nous poser des "
+"questions concernant l'étude, n'hésitez pas à contacter Kerem Kilic à "
+"l'adresse <a href = \"mailto: kerem.kilic@hec.edu\">kerem.kilic@hec.edu</a> "
+"</p> <p> Nous nous réjouissons de vous contacter après que vous ayez terminé "
+"votre cours en ligne. </p>"
+
+#: dice_roll/templates/dice_roll/End_nocourse.html:12
+msgid ""
+"<p> You have completed all of the games. We thank you for your "
+"participation. </p> <p> The next step is to answer a follow-up survey in "
+"approximately four months time. We will contact you on the e-mail that you "
+"have provided when it is time for the follow-up. </p>"
+msgstr ""
+"<p> Vous avez terminé tous les jeux. Nous vous remercions de votre "
+"participation </p> <p> L'étape suivante consiste à répondre à une enquête de "
+"suivi dans un délai d'environ quatre mois. Nous vous contacterons sur l'e-"
+"mail que vous avez fourni au moment du suivi. </p>"
+
+#: dice_roll/templates/dice_roll/Landing.html:6
+msgid "Game D - Instructions"
+msgstr "Jeu D - Instructions"
+
+#: dice_roll/templates/dice_roll/Landing.html:18
+msgid ""
+"<p> You are going to observe the outcome of an electronic six sided die "
+"roll. The experimenter will also observe the outcome of the die roll. The "
+"die roll has six possible outcomes: 1, 2, 3, 4, 5, and 6. Each outcome is "
+"realized with a probability of 1/6. The table below summarizes the die roll "
+"outcomes and their associated probabilities: </p>"
+msgstr ""
+"<p> Vous allez observer le résultat d'un jet de dé électronique à six faces. "
+"L'expérimentateur va également observer le résultat du jet de dé. Le jet de "
+"dé comporte six résultats possibles : 1, 2, 3, 4, 5 et 6. Chaque résultat "
+"est réalisé avec une probabilité de 1/6. Le tableau ci-dessous résume les "
+"résultats des jets de dé et les probabilités qui y sont associées </p>"
+
+#: dice_roll/templates/dice_roll/Landing.html:61
+msgid ""
+"<p> Your task is to report the outcome of the die roll. Your monetary "
+"payment is determined by the number you report. If you report number 1, then "
+"you are paid €4, if you report number 2, then you are paid €8, and so on. "
+"Here is a table of how your report is associated with your monetary payment: "
+"</p>"
+msgstr ""
+"<p> Votre tâche consiste à rendre compte du résultat du jet de dé. Votre "
+"paiement monétaire est déterminé par le nombre que vous avez indiqué. Si "
+"vous déclarez le chiffre 1, vous recevez 4 euros, si vous déclarez le "
+"chiffre 2, vous recevez 8 euros, et ainsi de suite. Voici un tableau "
+"indiquant comment votre rapport est associé à votre paiement monétaire </p>"
+
+#: dice_roll/templates/dice_roll/Landing.html:103
+msgid ""
+"<p> It is important that you have a good understanding of the experimental "
+"instructions. To check that the instructions are clear to you we now ask you "
+"to answer a few questions.  Your answers to these questions do not have any "
+"influence on the experiment itself or on the payment you will receive at the "
+"end of the experiment. The experiment will start once you have answered the "
+"questions correctly. Questions to check your understanding: </p>"
+msgstr ""
+"<p> Il est important que vous ayez une bonne compréhension des instructions "
+"expérimentales. Pour vérifier que les instructions sont claires pour vous, "
+"nous vous demandons maintenant de répondre à quelques questions.  Vos "
+"réponses à ces questions n'ont aucune influence sur l'expérience elle-même "
+"ni sur le paiement que vous recevrez à la fin de l'expérience. L'expérience "
+"commencera dès que vous aurez répondu correctement aux questions. Questions "
+"pour vérifier votre compréhension </p>"
+
+#: dice_roll/templates/dice_roll/Results.html:6
+msgid "Dice Rolling Task"
+msgstr "Le jeu des dés"
+
+#: dice_roll/templates/dice_roll/Results.html:18
+msgid "<p> Thank you for completing this task. Your payoff from this task is:"
+msgstr ""
+"<p> Merci d'avoir accompli cette tâche. Votre récompense pour cette tâche "
+"est :"
+
+#: dice_roll/templates/dice_roll/Results.html:29
+msgid "<p> You may move to the next task now. </p>"
+msgstr "<p> Vous pouvez passer à la tâche suivante maintenant </p>"
